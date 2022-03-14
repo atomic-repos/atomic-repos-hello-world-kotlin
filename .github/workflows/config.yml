@@ -4,7 +4,7 @@ on: [push]
 
 defaults:
   run:
-    working-directory: static/hello-world-java
+    working-directory: static/hello-world-kotlin
 
 jobs:
   build:
